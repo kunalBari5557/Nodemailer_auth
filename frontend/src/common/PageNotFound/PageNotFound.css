@@ -1,0 +1,33 @@
+/* NotFoundPage.css */
+
+.error-container {
+    text-align: center;
+}
+
+.error-code {
+    font-size: 120px;
+    font-weight: bold;
+    color: #e74c3c;
+    margin: 0;
+}
+
+.error-message {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.back-home-link {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    border: 2px solid #3498db;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.back-home-link:hover {
+    background-color: #3498db;
+    color: #fff;
+}
