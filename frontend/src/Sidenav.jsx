@@ -188,7 +188,7 @@ export default function Sidenav() {
               }}
             >
               <>
-                <Button sx={{marginLeft:"90rem !important"}} variant="outlined" onClick={handleClickOpen}>
+                <Button sx={{marginLeft:"60rem !important"}} variant="outlined" onClick={handleClickOpen}>
                   Profile
                 </Button>
                 <BootstrapDialog
